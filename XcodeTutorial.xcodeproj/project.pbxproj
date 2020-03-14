@@ -16,6 +16,7 @@
 		FC44CC97241A259B00C308AB /* XcodeTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC44CC96241A259B00C308AB /* XcodeTutorialTests.swift */; };
 		FC44CCA2241A259B00C308AB /* XcodeTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC44CCA1241A259B00C308AB /* XcodeTutorialUITests.swift */; };
 		FC44CCB0241A3BAC00C308AB /* LetAndVar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC44CCAF241A3BAC00C308AB /* LetAndVar.swift */; };
+		FC5E4E0D241CA34D00D06CFD /* ArrayAndDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC5E4E0C241CA34D00D06CFD /* ArrayAndDictionary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		FC44CCA1241A259B00C308AB /* XcodeTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XcodeTutorialUITests.swift; sourceTree = "<group>"; };
 		FC44CCA3241A259B00C308AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FC44CCAF241A3BAC00C308AB /* LetAndVar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetAndVar.swift; sourceTree = "<group>"; };
+		FC5E4E0C241CA34D00D06CFD /* ArrayAndDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayAndDictionary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 			isa = PBXGroup;
 			children = (
 				FC44CCAF241A3BAC00C308AB /* LetAndVar.swift */,
+				FC5E4E0C241CA34D00D06CFD /* ArrayAndDictionary.swift */,
 			);
 			name = SwiftBasic;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC44CC80241A259A00C308AB /* AppDelegate.swift in Sources */,
+				FC5E4E0D241CA34D00D06CFD /* ArrayAndDictionary.swift in Sources */,
 				FC44CC82241A259A00C308AB /* SceneDelegate.swift in Sources */,
 				FC44CC84241A259A00C308AB /* ContentView.swift in Sources */,
 				FC44CCB0241A3BAC00C308AB /* LetAndVar.swift in Sources */,
