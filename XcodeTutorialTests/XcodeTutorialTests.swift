@@ -7,6 +7,7 @@
 //
 
 import XCTest
+
 @testable import XcodeTutorial
 
 class XcodeTutorialTests: XCTestCase {
@@ -20,6 +21,8 @@ class XcodeTutorialTests: XCTestCase {
     }
 
     func testExample() {
+        var testData = test1Function(name: "설춘식", time: 5)
+        print(testData)
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
